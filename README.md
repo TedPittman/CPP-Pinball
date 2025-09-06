@@ -1,4 +1,4 @@
-# Final Project : Pinball
+# Pinball
 ## Ted Pittman
 ## Project Summary
 This project is a Pinball machine game where a user has three balls available per round, and attempts to get as high a score as possible by controlling the flippers to hit the targets and bouncers.
@@ -28,13 +28,6 @@ for understanding existing DebugDraw (b2Draw) for box2d
 https://box2d.org/documentation/md_collision.html
 for understanding function implementation, syntax, and engine logic 
 
-
-## Self-Grading
-I believe I deserve 90 points:
-
-This program accomplishes my proposal goal of a functional pinball machine, with working physics for the flippers, ball, and bouncers/targets.
-The machine could be complex, but time constraints from implementing object rendering into Box2D prevented further additions. 
-The code is documented and clearly commented, with the OpenGL and Box2D manipulations proving more difficult to understand.
 
 
 
